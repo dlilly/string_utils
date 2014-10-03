@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "author": "dave lilly",
   "description": "Some useful utility methods on String",
-  "main": "string_utils.js",
+  "main": "pz-stringutils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

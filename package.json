@@ -1,5 +1,5 @@
 {
-  "name": "string-utils",
+  "name": "pz-stringutils",
   "version": "0.0.1",
   "author": "dave lilly",
   "description": "Some useful utility methods on String",
@@ -7,5 +7,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "license": "BSD-2-Clause"
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlilly/string_utils"
+  },
+  "bugs": {
+    "url": "https://github.com/dlilly/string_utils/issues"
+  }
 }

@@ -1,6 +1,6 @@
 {
   "name": "pz-stringutils",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "dave lilly",
   "description": "Some useful utility methods on String",
   "main": "string_utils.js",
